@@ -35,7 +35,7 @@ In a column, it shows all the unique values with their count, it can be applied 
 .info()
 Provides basic information about the dataframe.
 
-# Anlysis
+# Analysis
 
 https://colab.research.google.com/drive/1qE7JGtOba4KQ8-iAPh2rbDZQP2or1n2e#scrollTo=Q1_Find_all_the_unique_Wind_Speed_values_in_the_data_
 
